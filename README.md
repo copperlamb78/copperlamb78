@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-<img src="https://brandfetch.com/chakra-ui.com?collection=all&library=default&view=library" height="40" alt="Chakra UI"/>
+<img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" height="40" alt="Chakra UI"/>
 
 <!-- Banco de dados -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
