@@ -72,7 +72,7 @@
 - APIs REST  
 - Estrutura de dados e algoritmos  
 - Melhora de UI/UX em meus projetos simples  
-- Testes automatizados  
+- Utilizar Cloudnary em projetos
 - Modelagem e otimização de banco de dados com PostgreSQL  
 
 ---
