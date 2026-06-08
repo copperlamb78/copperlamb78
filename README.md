@@ -1,93 +1,125 @@
-<!-- Banner topo gerado automaticamente -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=200&section=header&text=Antonio%20Gabriel%20%7C%20Full-Stack%20Developer&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-
-# 👋 Olá, eu sou o Antonio Gabriel (copperlamb78)
-
-> Desenvolvedor **full-stack** apaixonado por aprender e criar ferramentas simples e práticas para o dia a dia.
-
----
-
-## 🧰 Sobre mim
-
-- 🎯 Foco em desenvolvimento **full-stack**, com forte base em **Python** e **Node.js** no backend, **React / Next.js** no frontend e bancos de dados relacionais.
-- 🛠 Sempre teste, melhore e refatore: gosto de construir algo funcional e depois polir.
-- 📚 Atualmente estudando **Node.js, TypeScript, JavaScript, React Native, Next.js**.
-- 🤝 Aberto a colaborações em projetos open source — tanto pra aprender quanto pra compartilhar o que sei.
-
----
-
-## 📂 Projetos em destaque
-
-| Projeto | Tecnologias | Descrição rápida |
-|---------|-------------|------------------|
-| **Car-registration** | Python | Um app para registrar carros: marca, ano, cor. |
-| **Task_list** | Python | Para gerenciar tarefas diárias. |
-| **Validador-e-gerador-de-CPF** | Python | Validar CPFs ou gerar CPFs válidos, com opção de salvar. |
-| **Desafio_CRUD_Express_IntegraSI** | JavaScript / Express | CRUD básico para exercitar backend com Express. |
-
----
-
-## 🚀 Ferramentas e Tecnologias
+<!-- Banner Topo -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:38bdf8&height=220&section=header&text=Antonio%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Automações%20%7C%20SaaS&descAlignY=55&descSize=17)
 
 <div align="center">
-  
-<!-- Linguagens -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+# 👋 Olá, eu sou o Antonio Gabriel
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-<img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" height="40" alt="Chakra UI"/>
+### **Desenvolvedor Full-Stack focado em Backend, Automações e Produtos Digitais**
 
-<!-- Banco de dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+Portfólio, contatos e redes sociais de forma rápida:
 
-<!-- Outros -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+[![Portfolio](https://img.shields.io/badge/Portfólio-antoniogabriel.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniogabriel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/antoniofalcaonascimento)
+[![Email](https://img.shields.io/badge/E--mail-Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentogabriel.2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-copperlamb78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/copperlamb78)
+
+---
+
+</div>
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor em evolução constante, movido pelo desafio de criar aplicações úteis, organizadas e com impacto real no ecossistema de empresas e usuários.
+
+* 💼 **Atuação Atual:** Faço parte do time da **Contas Contabilidade** (uma das maiores empresas do setor na Bahia/Nordeste), desenvolvendo automações, otimizando processos internos e criando soluções voltadas para a produtividade extrema.
+* 🧠 **Filosofia de Código:** Gosto de construir projetos do zero para dominar as regras de negócio e a arquitetura subjacente. Uso IA de forma estratégica para produtividade, mas prezo pelo aprendizado sólido e manual das bases técnicas.
+
+> 💡 *Para mim, tecnologia precisa resolver problemas reais e gerar valor, não apenas parecer bonita no código.*
+
+---
+
+## 🛠️ Stack Principal
+
+<div align="center">
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-111827?style=for-the-badge&logo=chakraui&logoColor=319795)
+![Styled Components](https://img.shields.io/badge/Styled_Components-111827?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=009688&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-111827?style=for-the-badge&logo=pm2&logoColor=2B037A)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+### 🤖 Automação, Scraping & Ferramentas
+![Selenium](https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
 ---
 
-## 📊 Estatísticas & Badges
+## 🎯 Foco Atual & Desenvolvimento
 
-![GitHub stars](https://img.shields.io/github/stars/copperlamb78?style=for-the-badge)  
-![GitHub followers](https://img.shields.io/github/followers/copperlamb78?style=for-the-badge)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copperlamb78&layout=compact)  
-
----
-
-## 🌱 O que estou estudando
-
-- APIs REST  
-- Estrutura de dados e algoritmos  
-- Melhora de UI/UX em meus projetos simples  
-- Utilizar Cloudnary em projetos
-- Modelagem e otimização de banco de dados com PostgreSQL  
+* 🛠️ **Backend Sólido:** Construção de APIs REST robustas e estruturadas com **NestJS**, **Node.js** e **TypeScript**, sempre documentadas com **Swagger**.
+* 📊 **Persistência:** Otimização de consultas e modelagem de dados utilizando **PostgreSQL** e **MongoDB**.
+* 🤖 **Web Scraping:** Desenvolvimento de crawlers eficientes e automações complexas com **Python**, **Selenium** e **Playwright**.
+* 🚀 **Em Destaque (Toolkit):** Projeto acadêmico full-stack estruturado em **NestJS**. A API inicial foi criada em apenas 1 dia como um desafio pessoal de arquitetura e velocidade de entrega, evoluindo agora sem dependência de geradores automáticos para fixação de conceitos críticos.
 
 ---
 
-## 🤝 Vamos colaborar?
+## 📌 Projetos em Destaque
 
-- GitHub: [copperlamb78](https://github.com/copperlamb78)  
-- LinkedIn: [Antonio Gabriel](https://br.linkedin.com/in/antoniofalcaonascimento)  
-- E-mail: [nascimentogabriel.2004@gmail.com](mailto:nascimentogabriel.2004@gmail.com)  
+| Projeto | Principais Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| 🧰 **Toolkit** | NestJS, TypeScript, JS | API robusta focada em arquitetura escalável e organização rígida de rotas. |
+| 💼 **BusinessCorp** | TypeScript, HTML/CSS | Portfólio institucional sob medida para TCC de Administração do SENAI. |
+| 💳 **SaaS Financeiro** | Stack Full-Stack | Sistema focado em controle financeiro pessoal/empresarial e experiência de uso limpa. |
+| 🌐 **Portfólio Pessoal** | Next.js, TypeScript | Minha vitrine digital para consolidar projetos, artigos e histórico profissional. |
+| ♻️ **Electronic Recycling** | TypeScript, Geolocalização | App que mapeia pontos de descarte eletrônico próximos com base no IP do usuário. |
+| 🛡️ **Gerador de CPF** | Python | Script inteligente para validação, geração e exportação de CPFs válidos. |
+| 📝 **Task List** | Python | Utilitário leve e objetivo voltado para a gestão de tarefas cotidianas. |
 
 ---
 
-> “A jornada de mil commits começa com um push.” 🚀
+## 💼 Serviços Freelancer & Soluções Comerciais
+
+Estou expandindo minha atuação como desenvolvedor independente. Desenvolvo soluções sob medida com foco em performance e prazos reais:
+
+* 🌐 **Aplicações Web:** Landing Pages de alta conversão, Sites Institucionais e Portfólios de alto padrão.
+* ⚙️ **Sistemas & Integrações:** Criação de APIs REST, Dashboards dinâmicos, Ferramentas internas e Conexão de Bancos de Dados.
+* 🤖 **Inteligência Operacional:** Automação de processos manuais na web, web scraping e extração estruturada de dados.
 
 ---
 
-<!-- Banner rodapé -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=120&section=footer)
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=copperlamb78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=38BDF8&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copperlamb78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🧩 Um Pouco da Minha Sintaxe
+
+```ts
+const antonioGabriel = {
+  role: "Full-Stack Developer",
+  focus: ["Backend", "APIs", "Automações", "SaaS", "Freelance"],
+  mainStack: ["Node.js", "NestJS", "TypeScript", "Python", "FastAPI", "React", "Next.js"],
+  currentlyLearning: ["Arquitetura Backend", "PostgreSQL", "APIs REST", "Swagger", "Boas práticas"],
+  mindset: "Construir, testar, errar, melhorar e repetir."
+};
