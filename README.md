@@ -106,8 +106,7 @@ Estou expandindo minha atuação como desenvolvedor independente. Desenvolvo sol
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=copperlamb78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=38BDF8&text_color=FFFFFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copperlamb78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=FFFFFF)
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
