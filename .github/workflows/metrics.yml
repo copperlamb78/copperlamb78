@@ -21,10 +21,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: copperlamb78
+
           template: classic
           base: header, activity, community, repositories, metadata
           filename: github-metrics.svg
           config_timezone: America/Bahia
+
+          plugins_errors_fatal: no
+
           config_order: base.header, isocalendar, languages, habits, activity, repositories, lines
 
           plugin_isocalendar: yes
@@ -38,14 +42,15 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
 
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_load: 300
+          plugin_activity_days: 0
+          plugin_activity_filter: push, issue, pr, release, ref/create
 
           plugin_repositories: yes
           plugin_repositories_featured: copperlamb78/toolkit, copperlamb78/copperlamb78
