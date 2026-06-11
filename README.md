@@ -83,7 +83,7 @@ Sou um desenvolvedor em evolução constante, movido pelo desafio de criar aplic
 | Projeto | Principais Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | 🧰 **Toolkit** | NestJS, TypeScript, JS | API robusta focada em arquitetura escalável e organização rígida de rotas. |
-| 💼 **BusinessCorp** | TypeScript, HTML/CSS | Portfólio institucional sob medida para TCC de Administração do SENAI. |
+| 💼 **BusinessCorp** | TypeScript, Vite | Portfólio institucional sob medida para TCC de Administração do SENAI. |
 | 💳 **SaaS Financeiro** | Stack Full-Stack | Sistema focado em controle financeiro pessoal/empresarial e experiência de uso limpa. |
 | 🌐 **Portfólio Pessoal** | Next.js, TypeScript | Minha vitrine digital para consolidar projetos, artigos e histórico profissional. |
 | ♻️ **Electronic Recycling** | TypeScript, Geolocalização | App que mapeia pontos de descarte eletrônico próximos com base no IP do usuário. |
