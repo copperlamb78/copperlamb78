@@ -198,6 +198,7 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 | 💳 **Meu Caixa** | Stack Full-Stack | SaaS de controle financeiro pessoal e empresarial, com foco em experiência de uso limpa e direta. |
 | 🌐 **[Portfólio Pessoal](https://github.com/copperlamb78/portifolio_gabriel)** | Vite, TypeScript | Minha vitrine digital para consolidar projetos, artigos e histórico profissional. |
 | ♻️ **[Electronic Recycling](https://github.com/copperlamb78/Eletronic_Recycling)** | TypeScript, Geolocalização | App que mapeia pontos de descarte eletrônico próximos com base no IP do usuário. |
+| 🌱 **[ECO](https://github.com/copperlamb78/ECO_Frontend)** | HTML, Python | Projeto acadêmico colaborativo. Entrei em base de código já existente para **diagnosticar e corrigir bugs** que travavam o projeto — depurar código que não é seu é uma habilidade à parte. |
 | 🛡️ **[Gerador de CPF](https://github.com/copperlamb78/validador-e-gerador-de-cpf)** | Python | Script inteligente para validação, geração e exportação de CPFs válidos. |
 | 📝 **[Task List](https://github.com/copperlamb78/Task_list)** | Python | Utilitário leve e objetivo voltado para a gestão de tarefas cotidianas. |
 
