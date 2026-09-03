@@ -1,5 +1,7 @@
 <!-- Banner Topo -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:38bdf8&height=220&section=header&text=Antonio%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Automações%20%7C%20SaaS&descAlignY=55&descSize=17)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:38bdf8&height=220&section=header&text=Antonio%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Automações%20%7C%20SaaS&descAlignY=55&descSize=17" alt="Header" />
+</div>
 
 <div align="center">
 
@@ -64,12 +66,15 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 
 **Caso em destaque** — a automação de varredura da **caixa postal eletrônica (DTE)**, em produção semanal **desde março de 2026**, percorrendo centenas de empresas por rodada:
 
+<div align="center">
+  
 | Métrica | Antes | Depois |
 | :--- | :--- | :--- |
 | ⏱️ Tempo total de execução | 50 a 80 horas | **5 a 7 horas** |
 | 🏢 Tempo por empresa | ~6 minutos | **~34 segundos** |
 | 💰 Custo de IA por execução | — | **R$ 0,33** |
 
+</div>
 * ⚡ **~10x mais rápido** — cerca de **90% de redução** no tempo total.
 * ⏳ **~60 horas devolvidas ao time a cada execução** — o equivalente a **1,5 semana** de trabalho de uma pessoa.
 * 🪙 **R$ 0,0005 por empresa processada** — cada **R$ 1,00** em IA cobre aproximadamente **1.900 empresas**.
@@ -259,4 +264,10 @@ Estou aberto a **oportunidades**, **projetos freelance** e **trocas técnicas** 
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:14b8a6,100:0f172a&height=120&section=footer)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigofelipe3/rodrigofelipe3/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:14b8a6,100:0f172a&height=120&section=footer" alt="Footer" />
+</div>
