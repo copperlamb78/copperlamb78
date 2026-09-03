@@ -1,11 +1,14 @@
 name: generate animation
 
 on:
+  # executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
 
+  # permite rodar manualmente no GitHub Actions
   workflow_dispatch:
 
+  # executa a cada push na branch principal
   push:
     branches:
       - master
@@ -18,14 +21,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # gera a cobrinha com tema padrão e tema dark
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2314b8a6&color_dots=%23ebedf0,%23bff4ef,%2385e6dc,%234fd1c5,%2314b8a6
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2314b8a6&color_dots=%230f172a,%2316414a,%2318737a,%2322a7b8,%2338bdf8
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338bdf8
 
+      # envia os arquivos gerados para a branch output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
