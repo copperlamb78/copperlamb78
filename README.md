@@ -265,7 +265,7 @@ Estou aberto a **oportunidades**, **projetos freelance** e **trocas técnicas** 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigofelipe3/rodrigofelipe3/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha" />
+  <img src="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha" />
 </div>
 
 <div align="center">
