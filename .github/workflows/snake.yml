@@ -11,7 +11,7 @@ on:
   # executa a cada push na branch principal
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
@@ -21,14 +21,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # gera a cobrinha com tema padrão e tema dark
+      # gera a cobrinha nas cores do banner (slate -> teal -> sky)
+      # color_dots: 1o = sem contribuicao, depois do menor ao maior (5 cores)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338bdf8
+            dist/github-contribution-grid-snake.svg?color_snake=#0ea5e9&color_dots=#e2e8f0,#99f6e4,#2dd4bf,#0d9488,#0f766e&color_dot_border=#00000010
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#38bdf8&color_dots=#0f172a,#134e4a,#0f766e,#14b8a6,#5eead4&color_dot_border=#ffffff10
 
       # envia os arquivos gerados para a branch output
       - name: push github-contribution-grid-snake.svg to the output branch
