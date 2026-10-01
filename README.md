@@ -75,6 +75,7 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 | 💰 Custo de IA por execução | — | **R$ 0,33** |
 
 </div>
+
 * ⚡ **~10x mais rápido** — cerca de **90% de redução** no tempo total.
 * ⏳ **~60 horas devolvidas ao time a cada execução** — o equivalente a **1,5 semana** de trabalho de uma pessoa.
 * 🪙 **R$ 0,0005 por empresa processada** — cada **R$ 1,00** em IA cobre aproximadamente **1.900 empresas**.
