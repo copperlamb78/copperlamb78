@@ -1,113 +1,103 @@
-<!-- Banner Topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:38bdf8&height=220&section=header&text=Antonio%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Automações%20%7C%20SaaS&descAlignY=55&descSize=17" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14b8a6,100:38bdf8&height=200&section=header&text=Antonio%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%C2%B7%20Automa%C3%A7%C3%B5es%20%C2%B7%20Criador%20do%20VitriMini&descAlignY=55&descSize=17" alt="Antonio Gabriel — Backend · Automações · Criador do VitriMini" />
 
-<div align="center">
+Desenvolvedor full-stack com foco em backend. Construo as automações fiscais que rodam em produção na **Contas Contabilidade** e produtos próprios — o mais novo é o **[VitriMini](https://vitrimini.com.br)**.
 
-# 👋 Olá, eu sou o Antonio Gabriel
-
-### **Desenvolvedor Full-Stack focado em Backend, Automações e Produtos Digitais**
-
-Portfólio, contatos e redes sociais de forma rápida:
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-antoniogabriel.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniogabriel.vercel.app)
+[![VitriMini](https://img.shields.io/badge/VitriMini-vitrimini.com.br-e11d48?style=for-the-badge)](https://vitrimini.com.br)
+[![Portfólio](https://img.shields.io/badge/Portfólio-antoniogabriel.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniogabriel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/antoniofalcaonascimento)
-[![Email](https://img.shields.io/badge/E--mail-Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentogabriel.2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-copperlamb78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/copperlamb78)
-
----
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentogabriel.2004@gmail.com)
 
 </div>
 
-## 🚀 Sobre mim
+---
 
-Sou um desenvolvedor em evolução constante, movido pelo desafio de criar aplicações úteis, organizadas e com impacto real no ecossistema de empresas e usuários.
+<div align="center">
+  <a href="https://vitrimini.com.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/vitrimini-logo-escuro.png" />
+      <img src="./assets/vitrimini-logo.png" alt="VitriMini" height="56" />
+    </picture>
+  </a>
 
-* 💼 **Atuação Atual:** Faço parte do time da **Contas Contabilidade** (uma das maiores empresas do setor na Bahia/Nordeste), onde desenvolvo e mantenho **automações rodando em produção** que substituem processos manuais e repetitivos do time fiscal e contábil — de crawlers em portais governamentais a integrações, agendadores e ferramentas internas.
-* 🧠 **Filosofia de Código:** Gosto de construir projetos do zero para dominar as regras de negócio e a arquitetura subjacente. Uso IA de forma estratégica para produtividade, mas prezo pelo aprendizado sólido e manual das bases técnicas.
+![Em produção](https://img.shields.io/badge/status-em%20produção-16a34a?style=flat-square)
 
-> 💡 *Para mim, tecnologia precisa resolver problemas reais e gerar valor, não apenas parecer bonita no código.*
+**Vitrine digital e link na bio para quem vende por encomenda.**<br/>
+O cliente escolhe data e turno, paga o sinal no Pix e o pedido chega pronto no WhatsApp — sem comissão sobre a venda.
+
+<a href="https://vitrimini.com.br"><img src="./assets/vitrimini-capa.png" alt="VitriMini — vitrine digital e link na bio em minutos" width="85%" /></a>
+
+</div>
+
+- **Para quem vende:** catálogo montado em minutos, agenda por data e turno e painel de pedidos ao vivo.
+- **Para quem compra:** carrinho somado na hora, sinal pelo Mercado Pago ou pela chave Pix e resumo pronto no WhatsApp.
+- **Stack:** React 19, Vite, Tailwind v4 · Node.js, Express, Prisma, PostgreSQL · Mercado Pago.
+
+<!-- VÍDEOS: no editor do GitHub, arraste cliente-demo.mp4 e painel-demo.mp4 no lugar das duas linhas
+     COLE_AQUI e apague as linhas de comentário (esta e a que fecha o bloco).
+<details>
+<summary><b>▶️ Ver o VitriMini funcionando</b> — a vitrine do cliente e o painel de pedidos</summary>
+
+COLE_AQUI_O_VIDEO_DA_VITRINE
+
+COLE_AQUI_O_VIDEO_DO_PAINEL
+
+</details>
+-->
+
+<p align="center"><a href="https://vitrimini.com.br"><b>Acessar o VitriMini</b></a> · <a href="https://github.com/copperlamb78/vitrimini">Ver o código</a></p>
 
 ---
 
-## 🏭 Automação em Produção
+## 🏭 Automação fiscal em produção
 
-Meu principal trabalho hoje é uma **plataforma em NestJS que orquestra mais de 10 automações** do dia a dia contábil-fiscal. Não são scripts isolados: é um sistema único, com fila de mensagens, agendamento, observabilidade e tratamento de falha — porque automação que quebra em silêncio é pior do que processo manual.
-
-| Frente | O que resolve | Stack principal |
-| :--- | :--- | :--- |
-| 📄 **Obrigações fiscais federais** | Apuração e entrega recorrente de obrigações (SPED, PGDAS, DCTFWeb): geração, validação e transmissão automatizada. | NestJS, TypeScript, Playwright |
-| 🧾 **Notas fiscais (NF-e / NFS-e)** | Consulta, download e confronto de notas em portais estaduais e municipais, com conciliação automática. | Python, Selenium, Node.js, HTTP/2 |
-| 🏛️ **Tributos municipais** | Emissão e download de guias, consulta cadastral e geração de PDF fiel ao layout original. | Puppeteer, FastAPI, WeasyPrint |
-| 📬 **Caixa postal eletrônica (DTE)** | Varredura periódica de comunicados e alertas, com leitura de imagem por visão computacional. | Playwright, Google Vision, Gemini |
-| 🔐 **Certificados digitais** | Leitura de arquivos `.pfx`, extração de titular e vencimento, controle de validade e assinatura de documentos. | Node.js, node-forge |
-| 📊 **Relatórios e conciliação** | Consolidação em Excel, geração de PDF assinado e disparo automático por e-mail. | ExcelJS, pdfmake, Nodemailer |
-| 👥 **Ferramentas internas** | Apps desktop e web para o time operar as automações sem depender de linha de comando. | Next.js, React, Electron, Firebase |
-
-### 📈 Números de produção
-
-Extraídos do registro de execução da própria plataforma *(dados até 04/08/2026)*:
+Na **Contas Contabilidade**, construo e mantenho a plataforma em **NestJS** que orquestra **mais de 20 automações** do fiscal e contábil — SPED, PGDAS, DCTFWeb, NF-e e NFS-e, certidões e caixa postal eletrônica. Cada empresa vira uma mensagem no **RabbitMQ**, e um painel próprio mostra o que rodou, o que falhou e por quê.
 
 <div align="center">
 
-| 🔁 Execuções | ✅ Execuções OK | 🏢 Processamentos | ✅ Registros OK | ⚙️ Automações |
-| :---: | :---: | :---: | :---: | :---: |
-| **99** | **99%** | **+12.000** | **94%** | **15** |
+| ⚙️ Automações | 🔁 Ciclos | 🏢 Empresas processadas | ✅ Sucesso por empresa |
+| :---: | :---: | :---: | :---: |
+| **20+** | **141**, todos concluídos | **+70 mil** | **97%** |
+
+<sub>Painel de produção, 27/06 a 27/11/2026. Pendência de cadastro (certificado ausente, cadastro incompleto) fica fora da taxa: não é falha do código.</sub>
 
 </div>
 
-*Duas taxas porque medem coisas diferentes: **99%** é a orquestração concluindo o ciclo; **94%** é o resultado empresa a empresa — onde entram cadastro desatualizado na origem, procuração vencida, permissão negada e portal fora do ar. São causas externas ao código, e rastreá-las separadamente foi uma decisão de projeto.*
+**Caso em destaque — caixa postal eletrônica (DTE).** Varredura semanal de ~620 empresas, em produção desde março de 2026:
 
-* 🎯 **13 ciclos concluídos, nenhum pendente** — cadências diária, semanal, mensal e trimestral rodando em paralelo.
-* 🔧 **1 única falha de execução em 99** — causa identificada e corrigida no mesmo ciclo.
+<div align="center">
+
+| | Antes | Hoje |
+| :--- | :---: | :---: |
+| ⏱️ Tempo por rodada | 50 a 80 h | **~4h30** |
+| 🏢 Tempo por empresa | ~6 min | **~26 s** |
+| 💰 Custo de IA por rodada | — | **R$ 0,35** |
+
+</div>
+
+> Cerca de 60 horas devolvidas ao time por semana, por 35 centavos de IA. A virada foi trocar o OCR do CAPTCHA por visão computacional, o que deixou a rodada inteira desassistida.
+
+- 📨 **Orientada a eventos:** uma mensagem por empresa e callback em vez de *polling* — uma empresa que falha não derruba as outras.
+- 🔭 **Nada falha em silêncio:** painel com status, histórico, custos e alerta de agendamento perdido. É de lá que saem os números acima.
+- 🧠 **IA onde resolve:** Gemini para CAPTCHA e leitura de documentos, como peça do sistema e não como enfeite.
 
 ---
 
-**Caso em destaque** — a automação de varredura da **caixa postal eletrônica (DTE)**, em produção semanal **desde março de 2026**, percorrendo centenas de empresas por rodada:
+## 📌 Outros projetos
 
-<div align="center">
-  
-| Métrica | Antes | Depois |
+| Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| ⏱️ Tempo total de execução | 50 a 80 horas | **5 a 7 horas** |
-| 🏢 Tempo por empresa | ~6 minutos | **~34 segundos** |
-| 💰 Custo de IA por execução | — | **R$ 0,33** |
+| 📅 **[SinalizeGO](https://github.com/copperlamb78/api-sinalizego)**<br/><sub>🚧 em desenvolvimento</sub> | Agendamento com sinal via Pix: o valor fica em custódia e é liquidado com split ao fim do atendimento. | NestJS, Prisma, PostgreSQL, Asaas |
+| 🎙️ **[Assistente de Reuniões IA](https://github.com/copperlamb78/backend_conversor)** | Transcreve o áudio da reunião e devolve um resumo estruturado. Backend HTTP + app desktop. | Express, Whisper, Gemini, Electron |
+| 🏋️ **[AriseFit](https://github.com/copperlamb78/AriseFit)** | App de treino calistênico gamificado: missão diária, níveis, ranks e sequência. | React Native, Expo, TypeScript, Zustand |
 
-</div>
-
-* ⚡ **~10x mais rápido** — cerca de **90% de redução** no tempo total.
-* ⏳ **~60 horas devolvidas ao time a cada execução** — o equivalente a **1,5 semana** de trabalho de uma pessoa.
-* 🪙 **R$ 0,0005 por empresa processada** — cada **R$ 1,00** em IA cobre aproximadamente **1.900 empresas**.
-* 🧠 A virada veio de substituir a leitura via OCR do CAPTCHA por **visão computacional**, tornando a execução inteira desassistida.
-* 🎯 **100% das rodadas concluídas.** As poucas empresas não processadas por semana são cadastro desatualizado na planilha de origem — atualizado o cadastro, processa normalmente.
-
-> 60 horas de trabalho humano trocadas por 33 centavos de processamento.
-
-**Outros resultados em produção:**
-
-* 📊 **Relatórios tributários** — assumi uma automação existente e a reescrevi sobre **RabbitMQ com processamento idempotente**. Resultado: de **95% para 100% de sucesso** entre dois ciclos consecutivos, eliminando 104 falhas recorrentes.
-* 💰 **Controle de caixa** — construída do zero, **~84 empresas por minuto** e **nenhuma falha registrada** desde a entrada em produção.
-* 🔄 **Sincronização diária de cadastro** — **56 execuções consecutivas sem uma única falha**, ~2 min cada.
-
-**O que aprendi construindo isso:**
-
-* 📨 **Arquitetura orientada a eventos** — migração de *polling* para *push* com **RabbitMQ**, ganhando throughput e derrubando latência de processamento.
-* 🛡️ **Resiliência é requisito, não bônus** — retry com backoff, *kill-switch*, fallback de seletores e reprocessamento idempotente. Portal do governo cai, muda layout e responde estranho: o código precisa sobreviver a isso.
-* 🔭 **Falha silenciosa é o pior tipo de falha** — com muitas automações rodando, diagnosticar dependia de vasculhar log do PM2 no servidor, e erro que não avisa passa despercebido por dias. Construí um **painel administrativo** que centraliza status, histórico e métricas de cada automação. Foi o que transformou "acho que rodou" em número — inclusive todos os desta seção, que só existem porque o painel existe.
-* 🧯 **Observabilidade além do painel** — **Sentry** para captura de exceção e logs estruturados, para conseguir responder *"por que essa automação não rodou ontem?"* sem abrir o servidor.
-* 🧠 **IA aplicada com propósito** — **Gemini** e **Google Cloud Vision** para leitura de documentos e imagens; **Whisper** para transcrição de áudio. IA como componente do sistema, não como enfeite.
-* ⏱️ **Agendamento e orquestração** — jobs recorrentes com `@nestjs/schedule` e `node-cron`, processos de longa duração sob **PM2**.
+<sub>🔒 As automações da empresa vivem em repositórios privados.</sub>
 
 ---
 
 ## 🛠️ Stack
 
 <div align="center">
-
-### ⭐ Especialidades
-
-*As tecnologias em que eu entrego com profundidade, não só familiaridade:*
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -122,7 +112,7 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 </div>
 
 <details>
-<summary><b>🧰 Ver arsenal completo</b> — tudo que já usei em projeto real</summary>
+<summary><b>🧰 Ver tudo que já usei em projeto real</b></summary>
 
 <div align="center">
 
@@ -136,6 +126,8 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 ![Styled Components](https://img.shields.io/badge/Styled_Components-111827?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=47848F)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -154,7 +146,7 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![DuckDB](https://img.shields.io/badge/DuckDB-111827?style=for-the-badge&logo=duckdb&logoColor=FFF000)
 
 ### 📨 Mensageria, Infra & Observabilidade
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
@@ -182,97 +174,24 @@ Extraídos do registro de execução da própria plataforma *(dados até 04/08/2
 
 ---
 
-## 🎯 Foco Atual & Desenvolvimento
-
-* 🚀 **Em Destaque — SinalizeGO:** API de agendamento para profissionais autônomos e pequenos negócios (barbearias, estúdios, salões), construída em **NestJS + Prisma + PostgreSQL**. O diferencial é o modelo financeiro: sem mensalidade para o profissional — a plataforma se sustenta por uma taxa progressiva sobre o sinal, com **split de pagamento via Pix** integrado ao gateway.
-* 🏗️ **Arquitetura Orientada a Eventos:** Desenho de sistemas que se comunicam por **mensageria (RabbitMQ)** em vez de acoplamento direto, com foco em throughput, idempotência e recuperação de falha.
-* 🛠️ **Backend Sólido:** Construção de APIs REST robustas e estruturadas com **NestJS**, **Node.js** e **TypeScript**, sempre documentadas com **Swagger**.
-* 🔐 **Segurança em APIs:** Aprofundamento em autorização multi-tenant, proteção de fluxos que envolvem dinheiro e o princípio de nunca confiar em valor vindo do cliente.
-* 📊 **Persistência:** Modelagem de dados e otimização de consultas com **PostgreSQL**, **Prisma** e **MongoDB**.
-* 🤖 **Web Scraping:** Crawlers resilientes com **Python**, **Selenium**, **Playwright** e **Puppeteer**, incluindo OCR e visão computacional quando o portal não coopera.
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Principais Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| 📅 **[SinalizeGO API](https://github.com/copperlamb78/api-sinalizego)** | NestJS, Prisma, PostgreSQL, Pix | Plataforma de agendamento com sinal via Pix e split automático de pagamento. Projeto autoral em evolução. |
-| 🎙️ **[Assistente de Reuniões IA](https://github.com/copperlamb78/backend_conversor)** | Express, Whisper, Gemini, Electron | Transcreve o áudio de uma reunião e devolve resumo estruturado. Backend HTTP + app desktop. |
-| 🧰 **[Toolkit](https://github.com/copperlamb78/toolkit)** | NestJS, TypeScript, JS | API robusta focada em arquitetura escalável e organização rígida de rotas. |
-| 💼 **[BusinessCorp](https://github.com/copperlamb78/businessCorp_Portfolio)** | TypeScript, Vite | Portfólio institucional sob medida para TCC de Administração do SENAI. |
-| 💳 **Meu Caixa** | Stack Full-Stack | SaaS de controle financeiro pessoal e empresarial, com foco em experiência de uso limpa e direta. |
-| 🌐 **[Portfólio Pessoal](https://github.com/copperlamb78/portifolio_gabriel)** | Vite, TypeScript | Minha vitrine digital para consolidar projetos, artigos e histórico profissional. |
-| ♻️ **[Electronic Recycling](https://github.com/copperlamb78/Eletronic_Recycling)** | TypeScript, Geolocalização | App que mapeia pontos de descarte eletrônico próximos com base no IP do usuário. |
-| 🌱 **[ECO](https://github.com/copperlamb78/ECO_Frontend)** | HTML, Python | Projeto acadêmico colaborativo. Entrei em base de código já existente para **diagnosticar e corrigir bugs** que travavam o projeto — depurar código que não é seu é uma habilidade à parte. |
-| 🛡️ **[Gerador de CPF](https://github.com/copperlamb78/validador-e-gerador-de-cpf)** | Python | Script inteligente para validação, geração e exportação de CPFs válidos. |
-| 📝 **[Task List](https://github.com/copperlamb78/Task_list)** | Python | Utilitário leve e objetivo voltado para a gestão de tarefas cotidianas. |
-
-> 🔒 As automações fiscais e ferramentas internas citadas na seção **Automação em Produção** vivem em repositórios privados da empresa e, por isso, não estão listadas aqui.
-
----
-
-## 💼 Serviços Freelancer & Soluções Comerciais
-
-Estou expandindo minha atuação como desenvolvedor independente. Desenvolvo soluções sob medida com foco em performance e prazos reais:
-
-* 🌐 **Aplicações Web:** Landing Pages de alta conversão, Sites Institucionais e Portfólios de alto padrão.
-* ⚙️ **Sistemas & Integrações:** Criação de APIs REST, Dashboards dinâmicos, Ferramentas internas e Conexão de Bancos de Dados.
-* 🤖 **Inteligência Operacional:** Automação de processos manuais na web, web scraping e extração estruturada de dados.
-* 💳 **Pagamentos & SaaS:** Integração de gateways, cobrança recorrente, split de pagamento e modelagem de produto digital.
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 No GitHub
 
 <div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
+  <img src="./github-metrics.svg" alt="Métricas do GitHub" width="100%" />
 </div>
 
 ---
 
-## 🧩 Um Pouco da Minha Sintaxe
-
-```ts
-const antonioGabriel = {
-  role: "Full-Stack Developer",
-  focus: ["Backend", "APIs", "Automações", "Web Scraping", "SaaS", "Freelance"],
-  mainStack: ["Node.js", "NestJS", "TypeScript", "Prisma", "Python", "FastAPI", "React", "Next.js"],
-  automation: ["Playwright", "Puppeteer", "Selenium", "RabbitMQ", "Gemini"],
-  currentlyLearning: [
-    "Arquitetura orientada a eventos",
-    "Mensageria e idempotência",
-    "Segurança em APIs de pagamento",
-    "Testes automatizados",
-  ],
-  mindset: "Construir, testar, errar, melhorar e repetir.",
-};
-```
-
----
-
-## 🤝 Vamos conversar?
-
-Estou aberto a **oportunidades**, **projetos freelance** e **trocas técnicas** — principalmente se envolver backend, automação ou produto digital do zero.
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-antoniogabriel.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniogabriel.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/antoniofalcaonascimento)
-[![Email](https://img.shields.io/badge/E--mail-Me%20chama-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentogabriel.2004@gmail.com)
+Aberto a oportunidades e freelas de **backend, automação e SaaS** — me chama no [LinkedIn](https://br.linkedin.com/in/antoniofalcaonascimento) ou por [e-mail](mailto:nascimentogabriel.2004@gmail.com).
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake-dark.svg?v=3" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake-dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake.svg?v=3" />
-    <img src="https://raw.githubusercontent.com/copperlamb78/copperlamb78/output/github-contribution-grid-snake-dark.svg?v=3" alt="Snake animation" />
-  </picture>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:14b8a6,100:0f172a&height=120&section=footer" alt="" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:14b8a6,100:0f172a&height=120&section=footer" alt="Footer" />
 </div>
