@@ -29,7 +29,7 @@ jobs:
 
           plugins_errors_fatal: no
 
-          config_order: base.header, isocalendar, languages, habits, repositories
+          config_order: base.header, isocalendar, languages, repositories
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -40,13 +40,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-
           # "atividade recente" e "linhas" saíram em 27/11/2026: alongavam o painel
-          # sem dizer nada que o resto do perfil não diga.
+          # sem dizer nada que o resto do perfil não diga. "Hábitos" saiu junto:
+          # aparecia no perfil como "Unexpected error".
           plugin_repositories: yes
           plugin_repositories_featured: copperlamb78/vitrimini, copperlamb78/copperlamb78
