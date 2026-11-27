@@ -29,7 +29,7 @@ jobs:
 
           plugins_errors_fatal: no
 
-          config_order: base.header, isocalendar, languages, habits, activity, repositories, lines
+          config_order: base.header, isocalendar, languages, habits, repositories
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -46,13 +46,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_days: 0
-          plugin_activity_filter: push, issue, pr, release, ref/create
-
+          # "atividade recente" e "linhas" saíram em 27/11/2026: alongavam o painel
+          # sem dizer nada que o resto do perfil não diga.
           plugin_repositories: yes
-          plugin_repositories_featured: copperlamb78/toolkit, copperlamb78/copperlamb78
-
-          plugin_lines: yes
+          plugin_repositories_featured: copperlamb78/vitrimini, copperlamb78/copperlamb78
